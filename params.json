@@ -1,6 +1,6 @@
 {
   "name": "Zering.GitHub.io",
   "tagline": "看尽人间兴废事，不曾富贵不曾穷",
-  "body": "# Zering.github.io\r\n个人博客库\r\n",
+  "body": "---\r\nlayout: default\r\ntitle: 首页\r\n---\r\n\r\n{% raw %}\r\n<ul class=\"post-list\">\r\n    {% for post in site.posts %}\r\n        <a href=\"{{site.baseurl}}{{post.url}}\"> {{ post.title }}  </a> <br>\r\n        {{ post.date | date: \"%F\" }} <br>\r\n        {{ post.category }} <br>\r\n        {{ post.excerpt }} \r\n    {% endfor %}\r\n{% endraw %}\r\n</ul>",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
