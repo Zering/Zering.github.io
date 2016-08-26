@@ -5,14 +5,14 @@ email: 550727632@qq.com
 description: "记录平时工作中的一些问题及解决方案"
 keyword: "java，linux"
 url: "https://zering.github.io"              # your host, for absolute URL
-baseurl: "/"                             # for example, '/blog' if your blog hosted on 'host/blog'
+baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 
 # SNS settings
 RSS: false
 weibo_username:     执念saying
-zhihu_username:     君莫笑
+zhihu_username:     jun-mo-xiao-29-28
 github_username:    zering
 #twitter_username:  zering
 #facebook_username:  zering
@@ -74,8 +74,8 @@ sidebar-about-description: "心之所念往，碎月之辉隐云中"
 
 
 # Featured Tags
-featured-tags: true                     # whether or not using Feature-Tags
-featured-condition-size: 1              # A tag will be featured if the size of it is more than this condition value
+#featured-tags: true                     # whether or not using Feature-Tags
+#featured-condition-size: 1              # A tag will be featured if the size of it is more than this condition value
 
 
 
