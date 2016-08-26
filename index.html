@@ -30,8 +30,11 @@
         <section id="main-content">
           <h1>
 <a id="zeringgithubio" class="anchor" href="#zeringgithubio" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Zering.github.io</h1>
-
-<p>个人博客库</p>
+    <ul>
+　　　　{% for post in site.posts %}
+　　　　　　<li>{{ post.date | date_to_string }} <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+　　　　{% endfor %}
+　　</ul>
         </section>
 
         <aside id="sidebar">
