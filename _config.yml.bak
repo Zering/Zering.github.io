@@ -4,7 +4,7 @@ header-img: img/home-bg.jpg
 email: 550727632@qq.com
 description: "记录平时工作中的一些问题及解决方案"
 keyword: "java，linux"
-url: "https://zering.github.io"              # your host, for absolute URL
+url: "http://huangxuan.me"              # your host, for absolute URL
 baseurl: "/"                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 
