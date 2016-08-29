@@ -74,8 +74,8 @@ sidebar-about-description: "心之所念往，碎月之辉隐云中"
 
 
 # Featured Tags
-#featured-tags: true                     # whether or not using Feature-Tags
-#featured-condition-size: 1              # A tag will be featured if the size of it is more than this condition value
+featured-tags: true                     # whether or not using Feature-Tags
+featured-condition-size: 1              # A tag will be featured if the size of it is more than this condition value
 
 
 
