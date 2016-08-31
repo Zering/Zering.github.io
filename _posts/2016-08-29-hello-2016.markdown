@@ -1,0 +1,47 @@
+---
+layout:     post
+title:      "Hello 2016"
+subtitle:   " \"Hello World, Hello Blog\""
+date:       2016-08-29 15:22:00
+author:     "Zering"
+header-img: "img/post-bg-2015.jpg"
+catalog: true
+tags:
+    - 生活
+---
+
+> “Yeah It's on. ”
+
+
+## 前言
+
+参照黄玄的博客模板，原版地址：[http://huangxuan.me/](http://huangxuan.me/)
+
+2016年3月份就搭建了本博客，但是后来再博客园上写就一直闲置了，现在是8月份，本博客主要用于学习技术，努力制作定制的博客版本
+
+<p id = "build"></p>
+---
+
+## 正文
+
+搭建博客的技术细节。
+
+###方案
+[GitHub Pages](https://pages.github.com/) + [Jekyll](http://jekyllrb.com/) 快速 Building Blog 的技术方案，非常轻松时尚。
+
+其优点非常明显：
+
+* **Markdown** 带来的优雅写作体验
+* 非常熟悉的 Git workflow ，**Git Commit 即 Blog Post**
+* 利用 GitHub Pages 的域名和免费无限空间，不用自己折腾主机
+	* 如果需要自定义域名，也只需要简单改改 DNS 加个 CNAME 就好了 
+* Jekyll 的自定制非常容易，基本就是个模版引擎
+
+---
+
+Theme 的 CSS 是基于 Bootstrap 定制的
+
+中文字体的渲染 [Type is Beautiful](http://www.typeisbeautiful.com/) 的 `font` CSS
+
+
+
