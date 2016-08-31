@@ -4,14 +4,14 @@ header-img: img/home-bg.jpg
 email: 550727632@qq.com
 description: "记录平时工作中的一些问题及解决方案"
 keyword: "java，linux"
-url: "https://zering.github.io"              # your host, for absolute URL
+url: "http://zering.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 
 # SNS settings
-RSS: true
-weibo_username:     3182272985
+RSS: flase
+weibo_username:     执念saying
 zhihu_username:     jun-mo-xiao-29-28
 github_username:    Zering
 #twitter_username:  zering
