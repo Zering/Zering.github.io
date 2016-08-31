@@ -11,7 +11,7 @@ baseurl: ""                             # for example, '/blog' if your blog host
 
 # SNS settings
 RSS: flase
-weibo_username:     执念saying
+weibo_username:     3182272985
 zhihu_username:     jun-mo-xiao-29-28
 github_username:    Zering
 #twitter_username:  zering
