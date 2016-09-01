@@ -16,6 +16,7 @@ tags:
 怎么将一个文件的内容转换成字符串呢？
 
 下面这段java代码将告诉你如何做。实际应用时，filePath要改成文件地址
+
 <!--lang: java--> 
 	public static String readFileToString() throws IOException {
 			File dirs = new File(".");
