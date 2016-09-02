@@ -1,4 +1,14 @@
 # Zering.github.io
 个人博客库
 
-使用`https://github.com/Huxpro/huxpro.github.io`的模板
+博客地址在[这里](http://zering.com)；
+
+感谢[黄玄](`https://github.com/Huxpro/huxpro.github.io`)的模板；
+
+感谢同事提供的背景图片；
+
+本博客主要写一些英文版的帖子，加上自己的理解，另外，写一些平时用来练手的算法和小代码
+
+后期有一定积累之后，加上自我介绍以及简历，方便展示自己；
+
+如果需要模板的可以随意拿过去使用。
