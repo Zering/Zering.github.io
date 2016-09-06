@@ -80,3 +80,24 @@ featured-condition-size: 1              # A tag will be featured if the size of 
 
 
 # Friends
+friends: [
+    {
+        title: "java_my_life",
+        href: "http://www.cnblogs.com/java-my-life/"
+    },{
+        title: "java小强",
+        href: "http://www.javacui.com/"
+    },{
+        title: "ImprotNew",
+        href: "http://www.importnew.com/"
+    },{
+        title: "HollisChuang's Blog",
+        href: "http://www.hollischuang.com/"
+    },{
+        title: "智慧演绎，无处不在",
+        href: "http://blog.csdn.net/zhangerqing"
+    },{
+        title: "hellojavacases微信公众号网站",
+        href: "http://hellojava.info/"
+    }
+]
