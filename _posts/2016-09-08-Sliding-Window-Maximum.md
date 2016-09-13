@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "滑动窗口最大值"
+title:      "239.Sliding Window Maximum-滑动窗口最大值"
 subtitle:   " \"LeetCode\""
 date:       2016-9-8 10:18:37 
 author:     "Zering"

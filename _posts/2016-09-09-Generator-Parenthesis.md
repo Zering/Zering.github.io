@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "生成括号组"
+title:      "22.Generate Parentheses-生成括号组"
 subtitle:   " \"LeetCode\""
 date:       2016-9-9 16:05:03 
 author:     "Zering"

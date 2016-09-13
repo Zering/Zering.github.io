@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "求最长的递增子序列"
+title:      "300.Longest Increasing Subsequence-求最长的递增子序列"
 subtitle:   " \"LeetCode\""
 date:       2016-09-02 13:22:00
 author:     "Zering"
