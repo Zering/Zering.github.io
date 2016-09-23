@@ -16,3 +16,17 @@
 2016-9-6
 添加搜索功能，双击ctrl或者点击右下角的搜索图标
 默认联想8个items
+
+2016-9-23
+添加浏览量统计(js实现)
+
+js：
+
+	<script src="https://cdn1.lncld.net/static/js/av-mini-0.6.10.js"></script>
+	<script src="http://jerry-cdn.b0.upaiyun.com/hit-kounter/hit-kounter-lc-0.2.0.js"></script>
+
+当前页面浏览数:
+
+	<span data-hk-page="current"> - </span>
+
+参考[https://github.com/zry656565/Hit-Kounter-LC](https://github.com/zry656565/Hit-Kounter-LC)
