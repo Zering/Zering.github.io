@@ -1,9 +1,11 @@
 # Zering.github.io
 个人博客库
 
-博客地址在[这里](http://zering.com)；
+博客地址在[这里](http://zering.me)；
 
-感谢[黄玄](`https://github.com/Huxpro/huxpro.github.io`)的模板；
+感谢[黄玄](https://github.com/Huxpro/huxpro.github.io)的模板；
+
+地址：[https://github.com/Huxpro/huxpro.github.io](https://github.com/Huxpro/huxpro.github.io)
 
 感谢同事提供的背景图片；
 
@@ -16,6 +18,8 @@
 2016-9-6
 添加搜索功能，双击ctrl或者点击右下角的搜索图标
 默认联想8个items
+
+参考地址：[https://github.com/androiddevelop/CodeboyBlog](https://github.com/androiddevelop/CodeboyBlog)
 
 2016-9-23
 添加浏览量统计(js实现)
