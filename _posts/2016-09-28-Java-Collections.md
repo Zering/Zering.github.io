@@ -659,4 +659,4 @@ Collection下主要为List和Set
 
 ### 后记
 
-本文用于复习Java集合类的最基本用法，联系源码地址：[https://github.com/Zering/Java-SE-Core](https://github.com/Zering/Java-SE-Core)
+本文用于复习Java集合类的最基本用法，练习源码地址：[https://github.com/Zering/Java-SE-Core](https://github.com/Zering/Java-SE-Core)
