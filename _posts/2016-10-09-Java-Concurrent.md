@@ -341,6 +341,6 @@ JDK解释：
 
 ### 后记
 
-联系源码地址：[https://github.com/Zering/Java-SE-Core/tree/master/src/concurrent](https://github.com/Zering/Java-SE-Core/tree/master/src/concurrent)
+练习源码地址：[https://github.com/Zering/Java-SE-Core/tree/master/src/concurrent](https://github.com/Zering/Java-SE-Core/tree/master/src/concurrent)
 
 下节练习：`BlockingQueue`、`SynchronousQueue`、`ScheduledThreadPoolExecutor`、`FutureTask`
