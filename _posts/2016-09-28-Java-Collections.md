@@ -7,7 +7,7 @@ author:     "Zering"
 header-img: "img/post-bg-java.jpg"
 catalog: true
 tags:
-    - java
+    - Java
 ---
 
 ## Java集合类合集
