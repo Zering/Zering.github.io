@@ -81,3 +81,21 @@ tcl安装方法： yum install -y tcl
 
 进入redis客户端只需输入`redis-cli`。
 
+### 外网访问设置修改
+
+1. 修改redis配置
+	1. 屏蔽 #bind 127.0.0.1
+	2. protected-mode no
+2. 修改防火墙策略
+	1. iptables -I INPUT -p tcp --dport 6379 -j ACCEPT
+	2. iptables save
+3. 重启
+	1. 重启redis
+		1. redis-cli shutdown
+		2. redis-server /etc/redis/6379.conf
+	2. 重启防火墙
+		1. service iptables restart
+
+
+
+
