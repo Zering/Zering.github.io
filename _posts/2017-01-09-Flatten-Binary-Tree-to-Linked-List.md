@@ -28,6 +28,7 @@ Given
        2   5
       / \   \
      3   4   6
+
 The flattened tree should look like:
 	
 	   1
@@ -53,6 +54,7 @@ The flattened tree should look like:
        2   5
       / \   \
      3   4   6
+
 改变后变为：
 
 	   1
