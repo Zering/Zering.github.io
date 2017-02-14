@@ -49,9 +49,9 @@ tags:
      */  
     public static void inOrderRec(Node root){  
         if(root!=null){  
-            preOrderRec(root.left);  
+            inOrderRec(root.left);  
             System.out.println(root.value);  
-            preOrderRec(root.right);  
+            inOrderRec(root.right);  
         }  
     }  
     /** 
@@ -60,8 +60,8 @@ tags:
      */  
     public static void postOrderRec(Node root){  
         if(root!=null){  
-            preOrderRec(root.left);  
-            preOrderRec(root.right);  
+            postOrderRec(root.left);  
+            postOrderRec(root.right);  
             System.out.println(root.value);  
         }  
     } 
