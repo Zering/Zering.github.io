@@ -7,8 +7,7 @@ author:     "Zering"
 header-img: "img/road.jpg"
 catalog: true
 tags:
-    - LeetCode
-    - Java
+    - [LeetCode,Java]
 ---
 
 ## 不同的子序列数
