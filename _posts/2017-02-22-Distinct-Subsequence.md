@@ -8,6 +8,7 @@ header-img: "img/road.jpg"
 catalog: true
 tags:
     - LeetCode
+    - Java
 ---
 
 ## 不同的子序列数
@@ -114,6 +115,6 @@ mem[2] = [0000022244]
 
 ### 后记
 
-源码：[https://github.com/Zering/LeetCode](https://github.com/Zering/LeetCode)
+源码：[https://github.com/Zering/LeetCode](https://github.com/Zering/LeetCode/blob/master/src/main/java/com/algorithm/DistinctSubsequences.java)
 
 
