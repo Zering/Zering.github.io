@@ -1,5 +1,6 @@
 ---
 layout:     post
+comments:	true
 title:      "115. Distinct Subsequences-不同的子序列"
 subtitle:   " \"LeetCode\""
 date:       2017-2-22 20:25:47  
